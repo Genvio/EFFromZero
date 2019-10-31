@@ -5,3 +5,4 @@
 
 ## Steps:
   - [**Chapter #1** First app](https://github.com/verloka/EF6FromZero/tree/master/src/Chapter_1/Chapter_1)
+  - [**Chapter #2** Code First from database](https://github.com/verloka/EF6FromZero/tree/master/src/Chapter_2)
