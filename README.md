@@ -13,3 +13,4 @@
   - [Database initialization](https://github.com/verloka/EF6FromZero/blob/master/src/Chapter_3/Core/DBInittializer.cs)
   - [Transactions](https://github.com/verloka/EF6FromZero/blob/master/src/Chapter_3/Transactions.cs)
   - [Linq and AsNoTracking](https://github.com/verloka/EFFromZero/blob/master/src/Chapter_4/Program.cs)
+  - [Migration](https://github.com/verloka/EFFromZero/blob/master/src/Chapter_5/Program.cs)
