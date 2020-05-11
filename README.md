@@ -1,4 +1,4 @@
-[![Logo](https://raw.githubusercontent.com/ogycode/CPPFromZero/master/merch/logo.jpg)](https://github.com/ogycode/CPPFromZero)
+[![Logo](https://raw.githubusercontent.com/verloka/EFFromZero/master/merch/logo.jpg)](https://github.com/verloka/EFFromZero)
 
 # Entity Framework 6 from Zero
 **I study the technology and this is my "note-book"**
